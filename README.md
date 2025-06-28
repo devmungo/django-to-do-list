@@ -21,7 +21,7 @@ A To-Do List application built with Django that allows users to manage their tas
 ## Installation
 
 1. Clone the repository
-```bash
+bash
 git clone https://github.com/yourusername/django-todo-list.git
 
 python -m venv venv
