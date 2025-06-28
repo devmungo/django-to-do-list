@@ -30,10 +30,10 @@ python -m venv venv
 virtualenv my_env
 
 3. Activate virtual environment
-# Windows
+Windows
 venv\Scripts\activate
 
-# Unix or MacOS
+Unix or MacOS
 source venv/bin/activate
 
 4. Install required packages
